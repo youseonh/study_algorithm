@@ -11,7 +11,8 @@
 
 ---
 
-## 주제와 문제집📖
+## 주제📖
+
 | 주차 | 주제 |
 | --- | --- |
 | 0 (preflight) | 알고리즘 스터디 시작 전 개인 문법 공부 |
@@ -25,11 +26,11 @@
 | 8 | 그리디 알고리즘 |
 | 9 | 완전탐색(Brute Force) & 시뮬레이션 |
 
-## 발표 문제🏆
+## 푼 문제📖
 
 |  | 1 | 2 | 3 |
 | --- | --- | --- | --- |
-| 0주 |  |  |  |
+| 0주 | https://school.programmers.co.kr/learn/courses/30/lessons/42889 | https://school.programmers.co.kr/learn/courses/30/lessons/77884 | https://school.programmers.co.kr/learn/courses/30/lessons/68644 |
 | 1주 |  |  |  |
 | 2주 |  |  |  |
 | 3주 |  |  |  |
