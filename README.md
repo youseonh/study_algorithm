@@ -30,7 +30,7 @@
 
 |  | 1 | 2 | 3 |
 | --- | --- | --- | --- |
-| 0주 | https://school.programmers.co.kr/learn/courses/30/lessons/42889 | https://school.programmers.co.kr/learn/courses/30/lessons/77884 | https://school.programmers.co.kr/learn/courses/30/lessons/68644 |
+| 0주 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
 | 1주 |  |  |  |
 | 2주 |  |  |  |
 | 3주 |  |  |  |
