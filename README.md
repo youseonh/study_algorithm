@@ -32,7 +32,7 @@
 | --- | --- | --- | --- | --- |
 | 0주 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |  |
 | 1주 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) |
-| 2주 |  |  |  |  |
+| 2주 | [스택 수열](https://www.acmicpc.net/problem/1874) | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
 | 3주 |  |  |  |  |
 | 4주 |  |  |  |  |
 | 5주 |  |  |  |  |
