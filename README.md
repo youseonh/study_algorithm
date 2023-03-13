@@ -34,7 +34,7 @@
 | 1주 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) |
 | 2주 | [스택 수열](https://www.acmicpc.net/problem/1874) | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
 | 3주 | [문자열 내림차순](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |
-| 4주 |  |  |  |  |
+| 4주 | [피보나치 수1](https://www.acmicpc.net/problem/24416) | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [설탕배달](https://www.acmicpc.net/problem/2839) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
 | 5주 |  |  |  |  |
 | 6주 |  |  |  |  |
 | 7주 |  |  |  |  |
