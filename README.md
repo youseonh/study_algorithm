@@ -35,7 +35,7 @@
 | 2주 | [스택 수열](https://www.acmicpc.net/problem/1874) | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
 | 3주 | [문자열 내림차순](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |
 | 4주 | [피보나치 수1](https://www.acmicpc.net/problem/24416) | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [설탕배달](https://www.acmicpc.net/problem/2839) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
-| 5주 |  |  |  |  |
+| 5주 | [DFS와 BFS](acmicpc.net/problem/1260) | [깊이 우선 탐색1](https://www.acmicpc.net/problem/24479) | [미로탐색](https://www.acmicpc.net/problem/2178) | [바이러스](https://www.acmicpc.net/problem/2606) |
 | 6주 |  |  |  |  |
 | 7주 |  |  |  |  |
 | 8주 |  |  |  |  |
