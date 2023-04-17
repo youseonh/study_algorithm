@@ -37,9 +37,9 @@
 | 4주 | [피보나치 수1](https://www.acmicpc.net/problem/24416) | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [설탕배달](https://www.acmicpc.net/problem/2839) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
 | 5주 | [DFS와 BFS](acmicpc.net/problem/1260) | [깊이 우선 탐색1](https://www.acmicpc.net/problem/24479) | [미로탐색](https://www.acmicpc.net/problem/2178) | [바이러스](https://www.acmicpc.net/problem/2606) |
 | 6주 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [바닥장식](https://www.acmicpc.net/problem/1388) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
-| 7주 |  |  |  |  |
-| 8주 |  |  |  |  |
-| 9주 |  |  |  |  |
+| 7주 | [숫자 카드](https://www.acmicpc.net/problem/2591) | [행렬 제곱](https://www.acmicpc.net/problem/10830) | [수 찾기](https://www.acmicpc.net/problem/1920) | [별 찍기](https://www.acmicpc.net/problem/2447) |
+| 8주 | [코딩은 예쁘게](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) | [센서](https://www.acmicpc.net/problem/2212) | [A와 B](https://www.acmicpc.net/problem/12904) |
+| 9주 | [유레카 이론](https://www.acmicpc.net/problem/10448) | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [체스 다시 칠하기](https://www.acmicpc.net/problem/1018) | [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
 | 10주 |  |  |  |  |
 
 ---
