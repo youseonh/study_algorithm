@@ -40,7 +40,14 @@
 | 7주 | [숫자 카드](https://www.acmicpc.net/problem/2591) | [행렬 제곱](https://www.acmicpc.net/problem/10830) | [수 찾기](https://www.acmicpc.net/problem/1920) | [별 찍기](https://www.acmicpc.net/problem/2447) |
 | 8주 | [코딩은 예쁘게](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) | [센서](https://www.acmicpc.net/problem/2212) | [A와 B](https://www.acmicpc.net/problem/12904) |
 | 9주 | [유레카 이론](https://www.acmicpc.net/problem/10448) | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [체스 다시 칠하기](https://www.acmicpc.net/problem/1018) | [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
-| 10주 |  |  |  |  |
+| 10주 | [시간 관리](https://www.acmicpc.net/problem/1263) | [정점들의 거리](https://www.acmicpc.net/problem/1761) |  |  |
+| 11주 | [폴리오미노](https://www.acmicpc.net/problem/1343) | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) |  |  |
+| 12주 |  |  |  |  |
+| 13주 |  |  |  |  |
+| 14주 |  |  |  |  |
+| 15주 |  |  |  |  |
+| 16주 |  |  |  |  |
+
 
 ---
 
